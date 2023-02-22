@@ -17,11 +17,3 @@ HARDWARE:
 1) NodeMCU
 2) RC-522 RFID Reader
 3) LEDs and Buzzer
-
-4) Hardware Prototype
-
-![WhatsApp Image 2019-08-11 at 9 41 42 PM (1)](https://user-images.githubusercontent.com/37211676/65944846-3b9a5f00-e450-11e9-8449-4b11fbc246ba.jpeg)
-
-5) Final Hardware with PCB
-
-![WhatsApp Image 2019-08-11 at 9 41 41 PM (3)](https://user-images.githubusercontent.com/37211676/65944862-4228d680-e450-11e9-849c-fb3f0b062e3f.jpeg)
